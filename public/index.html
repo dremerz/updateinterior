@@ -1,43 +1,206 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
+<head>
+  <meta charset="UTF-8">
+  <title>UPDATE INTERIOR</title>
+  <meta name="description" content="update interior the best choice for home interiors">
+  <meta name="keywords" content="home interior, make your dream home, updateinterior,updateinteriors,updateinterior.in,updateinterior.com">
+  <meta name="author" content="updateinterior">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+ 
+  <style>
+    #map{
+      width: 500px;
+      height: 400px;
+  }
+  #footerDiv{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 15px;
+      background-color: whitesmoke;
+      box-shadow: 2px 2px 9px gray;
+  }
+  body{
+      background-color: rgba(255, 112, 112, 0.062);
+  
+  }
+  a{
+      text-decoration: none;
+  }
+  
+  #footerDiv2{
+      width: 500px;
+      padding: 15px;
+      margin-left: 30px;
+      border-radius: 8px;
+      box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+  }
+  #block{
+      display: none;
+  }
+  a:hover{
+      cursor: pointer;
+  
+  }
+  
+  @media screen and (max-width: 1000px) {
+      #block{
+          display: block;
+      }
+  }
+  
+  
+  
+  @media screen and (max-width: 1110px) {
+      #footerDiv{
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          padding: 15px;
+          background-color: whitesmoke;
+          box-shadow: 2px 2px 9px gray;
+      }
+      #map{
+          width: 450px;
+          height: 350px;
+      }
+      
+      #footerDiv2{
+          width: 400px;
+          padding: 15px;
+          margin-left: 30px;
+          border-radius: 8px;
+          box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+      }
+  
+  
+  
+      
+  }
+  @media screen and (max-width: 960px) {
+      #footerDiv{
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          padding: 15px;
+          background-color: whitesmoke;
+          box-shadow: 2px 2px 9px gray;
+      }
+      #map{
+          width: 450px;
+          height: 350px;
+      }
+      
+      #footerDiv2{
+          width: 400px;
+          padding: 15px;
+          margin-left: 0px;
+          margin-top: 20px;
+          border-radius: 8px;
+          box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+      }
+  
+  
+  
+      
+  }
+  
+  
+  
+  @media screen and (max-width: 500px) {
+      #footerDiv{
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          padding: 15px;
+          background-color: whitesmoke;
+          box-shadow: 2px 2px 9px gray;
+      }
+      #map{
+          width: 350px;
+          height: 300px;
+      }
+      
+      #footerDiv2{
+          width: 350px;
+          padding: 15px;
+          margin-left: 0px;
+          margin-top: 20px;
+          border-radius: 8px;
+          box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+      }
+  
+  
+  
+      
+  }
+  
+  
+  @media screen and (max-width: 360px) {
+      #footerDiv{
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          padding: 5px;
+          background-color: whitesmoke;
+          box-shadow: 2px 2px 9px gray;
+      }
+      #map{
+          width: 320px;
+          height: 280px;
+      }
+      
+      #footerDiv2{
+          width: 320px;
+          padding: 5px;
+          margin-left: 0px;
+          margin-top: 20px;
+          border-radius: 8px;
+          box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+      }
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+  
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
+  
+      
+      
+  }
+
+  body{
+    background-color: white;
+
+  
+  }
+  </style>
+  <link href='https://fonts.googleapis.com/css?family=Adamina' rel='stylesheet'>
+ 
+</head>
+<body>
+
+  <div  id="social" ></div>
+
+  <div  id="body"></div>
+
+  <div id="navBar"></div>
+
+
+  <br>
+  <div id="footerDiv">
+    <div id="footerDiv1">
+    <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4111950674346!2d80.1207826143053!3d13.073106116181178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52611c7028b7fd%3A0x45312577be0b5d3d!2sUpdate%20Interior!5e0!3m2!1sen!2sin!4v1643372707137!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+   </div>
+   <div id="footerDiv2">
+
+   </div>
+  </div>
+
+
+  <div id="block" > <br><br><br><br><br> </div>
+
+
+  
+</body>
 </html>

@@ -1,0 +1,2298 @@
+.navBar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding:10px;
+    font-size: 17px;
+    box-shadow: 4px 4px 10px rgba(128, 128, 128, 0.432);
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 1;
+    background-color: white;
+}
+.a1{
+    text-decoration: none;
+}
+.pipmsg{
+    width: 200px;
+    overflow-wrap: break-word;
+}
+.piptim{
+    width: 100%;
+    padding-left: 30px;
+}
+.a1a{
+    margin-left: 0px;
+}
+.gopal{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.loginbox{
+    background-color: rgba(238, 84, 84, 0.404);
+    box-shadow: 2px 2px 10px gray;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 350px;
+}
+.commentdispaly{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+li{
+    text-decoration: none;
+
+}
+.a2{
+    color: red;
+
+}.a3{
+    color: red;
+
+}.a5{
+    color: red;
+
+}.a4{
+    color: red;
+
+}
+
+.div001{
+    padding: 40px;
+    width: 500px;
+}.div002{
+    width: 600px;
+    padding: 40px;
+}
+.contactImg1{
+    width: 100%;
+}
+.ddd{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: white;padding: 20px;
+}
+.form{
+    background-color: white;
+}
+.contactH{
+    font-size: 34px;
+    text-align: center;
+    margin-top: 10%;
+}
+.contacP{
+    font-size: 27px;
+    padding: 10px;
+    text-align: center;
+}
+.chw{
+    background-color: rgba(255, 255, 255, 0.884);
+    padding: 15px;
+}
+#flex{
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.contactTxt{
+    top: 60px;
+    color: white;
+    width: 95%;
+    height: 100%;
+    text-shadow: 2px 2px 9px black;
+    position: absolute;
+}
+.ch{
+    font-size: 34px;
+    border-left: 5px solid red;
+    padding-left: 5px;
+    width: auto;
+}
+.c{
+    font-size:xx-large;
+}
+.co{
+    font-size: x-large;
+}
+.bop{
+    display: none;
+}
+.estimateDiv1{
+    width: 350px;
+    border: 1px solid rgba(128, 128, 128, 0.719) ;
+    padding: 20px;
+    background-color: white;
+    margin: 10px;
+    height: 300px;
+}
+.estimateDiv2{
+    width: 350px;
+    height: 300px;
+    padding: 20px;
+    border: 1px solid gray ;
+    margin: 10px;
+
+}
+/* .estimateDiv1 a{
+    padding: 5px;
+    border: 1px solid red;
+    font-size: 16px;
+    margin: 10px;
+    color: red;
+    border-radius: 7px;
+} */
+.estimateDiv{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.estimateP{
+    text-align: center;
+}
+.estimateH{
+    text-align: center;
+    color: rgb(83, 81, 81);
+}
+.ea{
+    float: right;
+    background-color: rgb(97, 95, 95);
+    padding: 5px;
+    border-radius: 7px;
+    margin-right: 40px;
+    color: white;
+}
+.eeea{
+    float: left;
+    background-color: rgb(97, 95, 95);
+    padding: 5px;
+    border-radius: 7px;
+    color: white;
+    height: 30px;
+    margin: 20px;
+}
+.eea{
+    float: left;
+    background-color: rgb(97, 95, 95);
+    padding: 5px;
+    border-radius: 7px;
+    margin-left: 40px;
+    color: white;
+}
+.classofa{
+    background-color: red;
+    color: white;
+    border-radius: 7px;
+    padding: 5px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+.designH{
+    border-left: 5px solid red;
+    padding: 10px;
+    margin-left: 10px;
+}
+.designCont{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+.designCont div{
+    margin: 10px;
+}
+.designCont div:hover{
+    margin: 10px;
+}
+.designCont div img {
+    width: 350px;
+    border-radius: 10px 10px 10px 10px;
+    height: 250px;
+}
+.designCont div h3{
+    margin-left: 10px;
+}
+.aa11{
+    padding-left: 10px;
+}
+
+
+.s1{
+    width: 90px;
+}
+.s2{
+    width: 90px;
+}
+.s3{
+    width: 90px;
+}
+.s4{
+    width: 90px;
+}
+.s5{
+    width: 90px;
+}
+.footerH{
+    text-align: center;
+}
+
+
+
+.wideImg{
+    width: 100%;
+}
+.wideH{
+    font-size: 37px;
+    position: fixed;
+    text-align: center;
+    color: white;
+    left: 27%;
+    top: 40px;
+}
+.wideA{
+    text-decoration: none;
+    top: 150px;
+    position: fixed;
+    left: 37%;
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.completedSights{
+    padding: 20px;
+}
+.completedSightsH{
+    text-align: center;
+}
+.completedSightsDiv{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.completedSightsDiv div{
+    box-shadow:2px 2px 9px gray;
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 300px;
+}
+.completedP{
+    text-align: center;
+    font-size: 17px;
+
+}
+.completedH{
+    padding-left: 10px;
+    font-size: 22px;
+
+}
+.completedSightsVedio{
+    width: 300px;
+}
+.co{
+    color: black;
+    text-decoration: none;
+}
+
+.blocka{
+    display: none;
+}
+.block01{
+    display: none;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 17px;
+    
+}
+.navBara{
+   padding:7px;
+   padding-right: 45px;
+}
+.navBara:hover{
+    color:rgba(250, 54, 54, 0.801) ;
+}
+.logo{
+    padding-right: 2px;
+    padding:7px;
+}
+.name{
+    padding:7px;
+    padding-right: 45px;
+    color: red;
+
+}
+.navBarEstimate{
+    background-color: red;
+    padding:7px;
+    color: white;
+    border-radius: 7px;
+
+}
+.navBarEstimate:hover{
+    box-shadow:2px 2px 9px rgba(128, 128, 128, 0.5);
+}
+
+.navBarMouse{
+   padding:7px;
+   padding-right: 45px;
+   position: relative;
+   display: inline-block;
+}
+.dropDown{
+    position: absolute;
+   width:120px;
+   height: 90px;
+  background-color: #f9f9f9;
+  padding: 10px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   border-radius: 15px;
+    z-index: 1;
+}
+.dropDown div{
+    
+    padding-top: 10px;
+    padding: 5px;
+    padding-bottom: 8px;
+}
+.dropDownA{
+    width: 200px;
+}
+.dropDownA:hover{
+    
+    color:rgba(250, 54, 54, 0.781) ;
+}
+.nav1{
+    display: none;
+}
+.navBar1{display: none;
+    
+}
+
+.navBar1 a div{
+    font-size: 12px;
+}
+.redColor{
+    color: red;
+} 
+
+
+
+
+.flexBox{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height:590px ;
+    overflow: hidden;
+}
+.divFont{
+    font-size: 45px;
+    margin-right: 9%;
+    color: white;
+    margin-top: 11%;
+    font-family: 'Adamina';
+    z-index: 2;
+    text-shadow:3px 2px 10px rgba(0, 0, 0, 0.562);
+
+
+}
+.form{
+    padding: 10px;
+    width: 250px;
+    background-color: whitesmoke;
+    box-shadow: 2px 3px 9px gray;
+    border-radius: 10px;
+}
+.vedio{
+    position: fixed;
+    width: 100%;
+    display: block;
+}
+.vedioa{
+    display: none;
+}
+
+.div2{
+    z-index: 2;
+    margin-top: 7%;
+
+}
+.input{
+    padding: 15px;
+    border: none;
+    width: 220px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.616);
+    background-color: whitesmoke;
+}
+.form h3{
+    font-size: 22px;
+    text-align: center;
+}
+.form div{
+    font-size: 18px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.form div a{
+    padding: 7px;
+    color: white;
+    text-align: center;
+    background-color: red;
+    padding-right: 90px;
+    padding-left: 90px;
+    border-radius: 10px;
+}
+.form div a:hover{
+    box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.61);
+}
+.effect{
+    display: none;
+}
+
+
+.spinner {
+    z-index: 99999992542544;
+    position: fixed;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aliceblue;
+}
+.spinner img{
+    width: 100%;
+}
+
+.spinnerContainer{
+    top: 0;
+    left: 0;
+    height: 500%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.whyChooseUs{
+    padding: 20px;
+}
+.whyChooseUs h3{
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.why1{
+    width: 130px;
+    padding-right: 90px;
+}
+.why2{
+    width: 130px;
+    padding-right: 90px;
+}
+.why3{
+    width: 130px;
+    padding-right: 90px;
+}
+.why4{
+    width: 130px;
+}
+.whyFlex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+}
+.p2{
+    padding-top: 13px;
+}
+.p3{
+    padding-top: 6px;
+}
+.p4{
+    padding-top: 10px;
+}
+
+
+
+.easyStep{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.easyStep div img{
+    width: 450px;
+    border-radius: 20px;
+
+}
+.easyStepDiv1{
+    width: 50%;
+    justify-content: center;
+    display: flex;
+}
+.easyStepDiv2{
+    width: 50%;
+}
+.easyStepDiv2 h3{
+    font-size: 23px;
+}
+.easyp2{
+    font-size: 17px;
+}
+.easyH{
+    color: red;
+}
+.num11{
+    background-color: red;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num12{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num13{
+    background-color: white;
+    color: red;
+    padding-left: 10px;
+    border: 1px solid red;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.num21{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num22{
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num23{
+    background-color: white;
+    color: red;
+    padding-left: 10px;
+    border: 1px solid red;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.num31{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num32{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num33{
+    background-color: red;
+    color: white;
+    padding-left: 10px;
+    border: 1px solid red;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.estimatelink{
+    background-color: red;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.estimatelink:hover{
+    box-shadow: 2px 2px 9px gray;
+
+}
+.cenetrest{
+    text-align: center;
+}
+.trendingsdiv p{
+    font-size: 20px;
+    padding-left: 40px;
+}
+.trendingsdivcont{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 208.1px;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.trendingsdivconts{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 208.1px;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.trendingsdivcont div {
+    padding: 5px;
+}
+.trendingsdivconts div {
+    padding: 5px;
+}
+.trendingsdivcont div img{
+    width: 300px;
+    border-radius: 10px;
+    height: 200px;
+}
+.trendingsdivconts div img{
+    margin: 20px;
+    width: 200px;
+    border-radius: 10px;
+}
+.trendingLeftBut{
+    background-color: red;
+    position: fixed;
+    padding: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 7px;
+    top: 130px;
+    left: 20px;
+    color: white;
+    margin-top: 10px;
+
+}
+.trendingRightBut{
+    background-color: red;
+    position: fixed;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 7px;
+    right: 20px;
+    top: 130px;
+    color: white;
+    padding: 7px;
+    margin-top: 10px;
+}
+#tm{
+    display: none;
+}
+#tl{
+    display: block;
+}
+#bm{
+    display: none;
+}
+#bl{
+    display: block;
+}
+#kl{
+    display: block;
+}
+#km{
+    display: none;
+}
+.Croz{
+  display: none;
+  color: red;
+}
+
+
+.tableDiv{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.tableDiv table{
+    text-align: center;
+}
+.tableDiv table td{
+    padding: 20px;
+}
+.tableDiv table td {
+    box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.192);
+}
+.tableDiv table td:hover{
+    box-shadow: 2px 2px 9px gray;
+}
+.tableHeading{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+}
+.tableDiv{
+    background-color: whitesmoke;
+}
+.tableDiv table{
+    background-color: white;
+    border-radius: 40px 40px 20px 20px;
+}
+.commentInput{
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.582);
+}
+.commentButton{
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 7px;
+    border-radius: 9px;
+
+}
+.commentDiv1{
+    box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.479);
+    width: 200px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding: 20px;
+}
+.commentHeading{
+    text-align: center;
+}
+.commentDiv input{
+    background-color: whitesmoke;
+}
+.commentDiv{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 60px;
+}
+.commentDiv2{
+    overflow-y: scroll;
+    width: 300px;
+    background-color: whitesmoke;
+    height: 230px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.5);
+    border-radius: 9px;
+    padding: 20px;
+
+    margin-left: 60px;
+}
+.commentDiv2 img{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.commentWidth{
+    width: 200px;
+    overflow-wrap: break-word;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+            /* mediaquery */
+
+@media screen and (max-width: 1195px) {
+    .navBar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding:8px;
+        font-size: 15px;
+        box-shadow: 4px 4px 10px rgba(128, 128, 128, 0.432);
+
+    
+    }
+  
+.flexBox{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+    .divFont{
+        font-size: 40px;
+        margin-right: 2%;
+        color: white;
+        margin-top: 13%;
+    }
+    .navBara{
+        padding:7px;
+        padding-right: 30px;
+     }
+     .whyChooseUs h3{
+        font-size: 23px;
+        margin-left: 20px;
+    }
+    
+
+
+}
+
+
+@media screen and (max-width: 1110px) {
+.s1{
+    width: 60px;
+}
+.s2{
+    width: 60px;
+}
+.s3{
+    width: 60px;
+}
+.s4{
+    width: 60px;
+}
+.s5{
+    width: 60px;
+}
+}
+
+@media screen and (max-width: 1054px) {
+    .navBar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding:8px;
+        font-size: 15px;
+        box-shadow: 4px 4px 10px rgba(128, 128, 128, 0.432);
+
+    
+    }
+    .flexBox{
+        height:500px ;
+    }
+    .divFont{
+        font-size: 40px;
+        margin-right: 5%;
+        margin-top: 13%;
+        color: white;
+    }
+    .navBara{
+        padding:7px;
+        padding-right: 20px;
+     }
+
+}
+@media screen and (max-width: 816px) {
+    .why1{
+        width: 100px;
+        padding-right: 90px;
+    }
+    .why2{
+        width: 100px;
+        padding-right: 90px;
+    }
+    .why3{
+        width: 100px;
+        padding-right: 90px;
+    }
+    .why4{
+        width: 100px;
+    }
+
+}
+
+
+@media screen and (max-width: 1000px) {
+    .navBar{
+        display: none;
+
+    
+    }
+
+    .c{
+        font-size:26px;
+    }
+    .co{
+        font-size:21px;
+    }
+    .whyChooseUs h3{
+        font-size: 19px;
+        margin-left: 20px;
+    }
+    .wideH{
+        font-size: 37px;
+        position: fixed;
+        text-align: center;
+        color: white;
+        left: 22%;
+        top: 40px;
+    }
+    .wideA{
+        text-decoration: none;
+        top: 150px;
+        position: fixed;
+        left: 34%;
+        background-color: red;
+        color: white;
+        border-radius: 8px;
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .effect{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        background-color: rgba(128, 128, 128, 0.459);
+        padding-top: 10%;
+        z-index: 1000;
+        
+    }
+    .Croz{
+        display: block;
+        position: fixed;
+        z-index: 999999996666;
+        top: 90px;
+        left: 30px;
+        font-size: 40px;
+    }
+    
+    .effect form{
+        height: 400px;
+    }
+    
+    .nav1{
+        display: block;
+        font-size: 20px;
+
+    }
+    .nav1 a{
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .flexBox{
+        height: auto;
+    }
+    .navBar1{
+        width: 100%;
+        display: block;   
+        display: flex;
+        flex-wrap: wrap;
+        background-color: rgb(235, 66, 66);
+        justify-content: center;
+        z-index: 99999999991;
+        padding: 10px;
+        position: fixed;
+        bottom: 0px;
+        font-size: 30px;
+        box-shadow: -1px 1px solid gray;
+        
+    }
+    .navBar1 a{
+        padding-right: 20px;
+    }
+    .a1{
+        margin-left: 0px;
+        padding-left: 0px;
+        color: red;
+    }
+    .morefun{
+        width: 150px;
+        padding: 10px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        bottom:15%;
+        position: fixed;
+        box-shadow: 2px 2px 4px rgba(128, 128, 128, 0.459);
+        border-radius: 7px;
+        right: 20px;
+        z-index: 1;
+        background-color: whitesmoke;
+
+    }
+    .cross{
+        position: fixed;
+        bottom: 30%;
+        margin-left: 42%;
+        z-index: 1;
+    }
+    .block{
+        display: none;
+    }
+    .blocka{
+        display: block;
+    }
+    .divFont{
+        font-size: 37px;
+        margin-right: 5%;
+        margin-top: 13%;
+        color: white;
+    }
+    .div2{
+        display: none;
+    }
+    .block01{
+        display: block;
+    }
+
+
+
+    
+
+.easyStep{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+}
+.easyStep div img{
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+
+}
+.easyStepDiv1{
+    justify-content: center;
+    display: flex;
+}
+
+.easyStepDiv2 h3{
+    font-size: 23px;
+}
+.easyp2{
+    font-size: 17px;
+}
+.easyH{
+    color: red;
+}
+.num11{
+    background-color: red;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num12{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num13{
+    background-color: white;
+    color: red;
+    padding-left: 10px;
+    border: 1px solid red;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.num21{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num22{
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num23{
+    background-color: white;
+    color: red;
+    padding-left: 10px;
+    border: 1px solid red;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.num31{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num32{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num33{
+    background-color: red;
+    color: white;
+    padding-left: 10px;
+    border: 1px solid red;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+}
+
+@media screen and (max-width: 860px) {
+    .contactH{
+        font-size: 27px;
+        text-align: center;
+        margin-top: 7%;
+    }
+    .ch{
+        font-size: 22px;
+    }
+    .contacP{
+        font-size: 22px;
+        padding: 10px;
+        text-align: center;
+    }
+    .contactTxt{
+        top: 60px;
+        color: white;
+
+        width: 95%;
+        height: 100%;
+        text-shadow: 2px 2px 9px black;
+        position: absolute;
+    }
+
+
+.wideH{
+    font-size: 37px;
+    position: fixed;
+    text-align: center;
+    color: white;
+    left: 15%;
+    top: 40px;
+}
+.wideA{
+    text-decoration: none;
+    top: 150px;
+    position: fixed;
+    left: 34%;
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+}
+
+
+@media screen and (max-width: 780px) {
+    
+.easyStep{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+}
+.c{
+    font-size:24px;
+}
+.co{
+    font-size:19px;
+}
+.wideH{
+    font-size: 27px;
+    position: fixed;
+    text-align: center;
+    color: white;
+    left: 23%;
+    top: 40px;
+}
+.wideA{
+    text-decoration: none;
+    top: 150px;
+    position: fixed;
+    left: 34%;
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.easyStep div img{
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+
+}
+.easyStepDiv1{
+    justify-content: center;
+    display: flex;
+}
+
+.easyStepDiv2 h3{
+    font-size: 20px;
+}
+.easyp2{
+    font-size: 17px;
+}
+.easyH{
+    color: red;
+}
+.num11{
+    background-color: red;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num12{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num13{
+    background-color: white;
+    color: red;
+    padding-left: 10px;
+    border: 1px solid red;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.num21{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num22{
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num23{
+    background-color: white;
+    color: red;
+    padding-left: 10px;
+    border: 1px solid red;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.num31{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num32{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.num33{
+    background-color: red;
+    color: white;
+    padding-left: 10px;
+    border: 1px solid red;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+}
+@media screen and (max-width: 776px) {
+    .commentDiv2{
+        
+        margin-top: 50px;
+    }
+   
+
+}
+
+@media screen and (max-width: 750px) {
+    .why1{
+       
+        padding-right: 190px;
+    }
+    .commentDiv2{
+        
+        margin-top: 50px;
+    }
+   
+    .why3{
+       
+        padding-right: 250px;
+        padding-top:40px ;
+        padding-left: 0px;
+    }
+    .why4{
+       
+        padding-top:40px ;
+    }
+    .whyFlex div{
+        font-size: small;
+    }
+
+
+    .wideH{
+        font-size: 27px;
+        position: fixed;
+        text-align: center;
+        color: white;
+        left: 19%;
+        top: 20px;
+    }
+    .wideA{
+        text-decoration: none;
+        top: 110px;
+        position: fixed;
+        left: 31%;
+        background-color: red;
+        color: white;
+        border-radius: 8px;
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    
+    .easyStep{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        padding: 10px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 0px;
+    }
+    .easyStep div img{
+        width: 350px;
+        height: 250px;
+        border-radius: 20px;
+    
+    }
+    .easyStepDiv1{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+    }
+    .easyStepDiv2{
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+    }
+    .easyStepDiv2 h3{
+        font-size: 20px;
+    }
+    .easyp2{
+        font-size: 17px;
+    }
+    .easyH{
+        color: red;
+    }
+    .num11{
+        background-color: red;
+        color: white;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .num12{
+        background-color: white;
+        color: red;
+        border: 1px solid red;
+        padding-left: 10px;
+        padding-right: 5px;
+        border-radius: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .num13{
+        background-color: white;
+        color: red;
+        padding-left: 10px;
+        border: 1px solid red;
+        padding-right: 10px;
+        border-radius: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    
+    
+    .num21{
+        background-color: white;
+        color: red;
+        border: 1px solid red;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .num22{
+        background-color: red;
+        color: white;
+        border: 1px solid red;
+        padding-left: 10px;
+        padding-right: 5px;
+        border-radius: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .num23{
+        background-color: white;
+        color: red;
+        padding-left: 10px;
+        border: 1px solid red;
+        padding-right: 10px;
+        border-radius: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    
+    .num31{
+        background-color: white;
+        color: red;
+        border: 1px solid red;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .num32{
+        background-color: white;
+        color: red;
+        border: 1px solid red;
+        padding-left: 10px;
+        padding-right: 5px;
+        border-radius: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .num33{
+        background-color: red;
+        color: white;
+        padding-left: 10px;
+        border: 1px solid red;
+        padding-right: 10px;
+        border-radius: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    
+}
+
+.tell{
+    position: fixed;
+    bottom: 0px;
+    width: 100px;
+    z-index: 99999999999999;
+}
+.tell1{
+    width: 100px;
+    z-index: 99999999999999;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 100px;
+}
+
+
+@media screen and (max-width: 590px) {
+    .divFont{
+        font-size: 30px;
+        margin-right: 5%;
+        margin-top: 13%;
+        color: white;
+    }
+    .block01{
+        display: block;
+    }
+
+    .contactH{
+        font-size: 24px;
+        text-align: center;
+        margin-top: 6%;
+    }
+    .ch{
+        font-size: 21px;
+    }
+    .contacP{
+        font-size: 18px;
+        padding: 10px;
+        text-align: center;
+    }
+    .contactTxt{
+        top: 60px;
+        color: white;
+
+        width: 95%;
+        height: 100%;
+        text-shadow: 2px 2px 9px black;
+        position: absolute;
+    }
+
+
+    .wideH{
+        font-size: 24px;
+        position: fixed;
+        text-align: center;
+        color: white;
+        left: 18%;
+        top: 20px;
+    }
+    .wideA{
+        text-decoration: none;
+        top: 90px;
+        position: fixed;
+        left: 26%;
+        background-color: red;
+        color: white;
+        border-radius: 8px;
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .effect{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        background-color: rgba(128, 128, 128, 0.5);
+        padding-top: 30%;
+        z-index: 1000;
+        
+    }
+
+
+    
+    .why1{
+       
+        padding-right: 150px;
+    }
+    .why4{
+       
+        padding-top:40px ;
+    }
+    .why3{
+        padding-right: 160px;
+    }
+    .easyStep div img{
+        width: 300px;
+        height: 200px;
+        border-radius: 20px;
+    
+    }
+    .small{
+        font-size: 7px;
+    }
+
+
+
+    
+    }
+
+    @media screen and (max-width: 500px) {
+        .divFont{
+            font-size: 25px;
+            margin-right: 5%;
+            margin-top: 13%;
+            color: white;
+        }
+        .completedH{
+            padding-left: 10px;
+            font-size: 20px;
+        
+        }
+        .Croz{
+            display: block;
+        position: fixed;
+        z-index: 999999996666;
+        top: 90px;
+        left: 30px;
+        font-size: 30px;
+        }
+        .c{
+            font-size:21px;
+        }
+        .co{
+            font-size:17px;
+        }
+        .completedSightsDiv div{
+            box-shadow:2px 2px 9px gray;
+            margin-right: 0px;
+            margin-top: 20px;
+            border-radius: 10px;
+            width: 300px;
+        }
+        .block01{
+            display: block;
+        }
+        .commentDiv{
+            padding: 20px;
+        }
+        .why1{
+            width: 80px;
+            padding-right: 80px;
+        }
+        .why2{
+            width: 80px;
+            padding-right: 80px;
+        }
+        .why3{
+            width: 80px;
+            padding-right: 90px;
+            padding-top:40px ;
+        }
+        .why4{
+            width: 80px;
+            padding-top:40px ;
+        }
+        .whyFlex div{
+            font-size: small;
+        }
+        .p2{
+            padding-top: 5px;
+        }
+        .trendingLeftBut{
+            background-color: red;
+            position: fixed;
+            padding: 4px;
+            padding-left: 5px;
+            padding-right: 5px;
+            border-radius: 7px;
+            top: 130px;
+            left: 5px;
+            color: white;
+            margin-top: 10px;
+            font-size: small;
+        
+        }
+        .trendingRightBut{
+            background-color: red;
+            position: fixed;
+            font-size: small;
+            padding: 4px;
+            padding-left: 5px;
+            padding-right: 5px;
+            border-radius: 7px;
+            right: 10px;
+            top: 130px;
+            color: white;
+            margin-top: 10px;
+        }
+        
+
+        #tl{
+            display: none;
+        }
+        #tm{
+            display: block;
+        }
+        #bl{
+            display: none;
+        }
+        #bm{
+            display: block;
+        }
+        #km{
+            display: block;
+        }
+        #kl{
+            display: none;
+        }
+
+        .commentDiv2{
+            overflow-y: scroll;
+            width: 300px;
+            height: 230px;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.5);
+            border-radius: 9px;
+            padding: 10px;
+            margin-left: 0px;
+            margin-top: 50px;
+        
+        }
+        .commentDiv2 img{
+            width: 45px;
+            height: 45px;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+        .commentWidth{
+            width: 140px;
+            overflow-wrap: break-word;
+            
+        }
+
+        
+        .tableDiv{
+            display: flex;
+            justify-content: center;
+            padding: 9px;
+        }
+        .tableDiv table{
+            text-align: center;
+        }
+        .tableDiv table td{
+            padding: 12px;
+        }
+        .tableDiv table td {
+            box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.192);
+        }
+        .tableDiv table td:hover{
+            box-shadow: 2px 2px 9px gray;
+        }
+        .tableHeading{
+            background-color: red;
+            color: white;
+            border-radius: 20px;
+            font-size: 17px;
+        }
+        .tableDiv{
+            background-color: whitesmoke;
+        }
+        .tableDiv table{
+            background-color: white;
+            border-radius: 40px 40px 20px 20px;
+        }
+        .tableFont{
+            font-size: 12px;
+        }
+        .wideH{
+            font-size: 20px;
+            position: fixed;
+            text-align: center;
+            color: white;
+            left: 14%;
+            top: 16px;
+        }
+        .wideA{
+            text-decoration: none;
+            top: 70px;
+            position: fixed;
+            left: 24%;
+            font-size: 12px;
+            background-color: red;
+            color: white;
+            border-radius: 8px;
+            padding: 7px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        
+        
+        }
+
+@media screen and (max-width: 400px) {
+.divFont{
+    font-size: 23px;
+    margin-right: 5%;
+    margin-top: 23%;
+    color: white;
+}
+.wideH{
+    font-size: 17px;
+    position: fixed;
+    text-align: center;
+    color: white;
+    left: 7%;
+    top: 0px;
+}
+.wideA{
+    text-decoration: none;
+    top: 50px;
+    position: fixed;
+    left: 22%;
+    font-size: 12px;
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    padding: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.vedio{
+    display: none;
+}
+.vedioa{
+    width: 100%;
+    position: fixed;
+    display: block;
+}
+.flexBox{
+    height:330px
+}
+.block01{
+    display: block;
+}
+.why1{
+    width:70px;
+    padding-right: 80px;
+}
+.why2{
+    width: 80px;
+    padding-right: 0px;
+}
+}
+
+
+
+@media screen and (max-width: 450px) {
+    .s1{
+        width: 40px;
+    }
+    .s2{
+        width: 40px;
+    }
+    .s3{
+        width: 40px;
+    }
+    .s4{
+        width: 40px;
+    }
+    .s5{
+        width: 40px;
+    }
+    .footer p{
+        font-size: 14px;
+    }
+
+    .designCont div img {
+        width: 330px;
+    height: 230px;
+        border-radius: 10px 10px 10px 10px;
+    }
+    .classofa{
+        background-color: red;
+        color: white;
+        border-radius: 7px;
+        padding: 4px;
+        font-size: 12px;
+        margin-left: 10px;
+    }
+    }
+    
+
+@media screen and (max-width: 450px) {
+    .estimateDiv1{
+        width: 100%;
+        border: 0px solid rgba(128, 128, 128, 0.719) ;
+        padding: 0px;
+        margin: 5px;
+        height: 270px;
+    }
+    .contactH{
+        font-size: 22px;
+        text-align: center;
+        margin-top: 1%;
+    }
+    .ch{
+        font-size: 22px;
+    }
+    .contacP{
+        font-size: 15px;
+        margin: 0px;
+        padding-top: 0px;
+    }
+    .estimateDiv2{
+        width: 350px;
+        height: 270px;
+        padding: 5px;
+        border: 1px solid gray ;
+        margin: 5px;
+        display: none;
+    
+    }
+    .estimateDiv{
+        box-shadow: 2px 2px 9px gray;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+
+}
+
+
+
+
+@media screen and (max-width: 400px) {
+    .estimateDiv1{
+        width: 100%;
+        border: 0px solid rgba(128, 128, 128, 0.719) ;
+        padding: 0px;
+        margin: 5px;
+        height: 270px;
+    }
+    .estimateDiv2{
+        width: 350px;
+        height: auto;
+        padding: 5px;
+        border: 0px solid gray ;
+        margin: 5px;
+        display: block;
+    
+    }
+    .estimateDiv{
+        
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .bop{
+        display: block;
+    }
+    #blocx{
+        display: none;
+    }
+
+}
+.plus{
+    background-color: red;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+}
+
+
+@media screen and (max-width: 1290px) {
+    
+    .div001{
+        padding: 20px;
+        width: 400px;
+    }.div002{
+        width: 550px;
+        padding: 20px;
+    }
+    }
+
+    @media screen and (max-width: 1060px) {
+    
+        .div001{
+            padding: 20px;
+            width: 400px;
+        }.div002{
+            width: 450px;
+            padding: 20px;
+        }
+        }
+
+
+        @media screen and (max-width: 500px) {
+    
+            .div001{
+                padding: 14px;
+                width: 350px;
+            }.div002{
+                width: 350px;
+                padding: 14px;
+            }
+            }
+
+            @media screen and (max-width: 380px) {
+    
+                .div001{
+                    padding: 14px;
+                    width: 330px;
+                }.div002{
+                    width: 330px;
+                    padding: 14px;
+                }
+                }
+
+
+                @media screen and (max-width: 1100px) {
+    
+                    .tell{
+                        position: fixed;
+                        bottom: 0px;
+                        width: 80px;
+                        z-index: 99999999999999;
+                        
+                    }
+                    .tell1{
+                        width: 100px;
+                        z-index: 99999999999999;
+                        position: fixed;
+                        bottom: 0px;
+                        right: 0px;
+                        width: 85px;
+                    }
+                }
+
+
+                
+
+
+                @media screen and (max-width: 1200px) {
+    
+                    .tell{
+                        position: fixed;
+                        bottom: 0px;
+                        width: 85px;
+                        z-index: 99999999999999;
+                        
+                    }
+                    .tell1{
+                        width: 100px;
+                        z-index: 99999999999999;
+                        position: fixed;
+                        bottom: 0px;
+                        right: 0px;
+                        width: 90px;
+                    }
+                }
+
+
+
+
+                @media screen and (max-width: 1000px) {
+    
+                .tell{
+                    position: fixed;
+                    bottom: 55px;
+                    width: 65px;
+                    z-index: 99999999999999;
+                    
+                }
+                .tell1{
+                    width: 100px;
+                    z-index: 99999999999999;
+                    position: fixed;
+                    bottom: 80px;
+                    right: 0px;
+                    width: 70px;
+                }
+            }
+
+
+            
+
+            @media screen and (max-width: 800px) {
+    
+                .tell{
+                    position: fixed;
+                    bottom: 80px;
+
+                    width: 65px;
+                    z-index: 99999999999999;
+                    
+                }
+                .tell1{
+                    width: 100px;
+                    z-index: 99999999999999;
+                    position: fixed;
+                    bottom: 80px;
+
+                    right: 0px;
+                    width: 70px;
+                }
+            }
+.i{
+    cursor: pointer;
+    color: rgb(0, 255, 0);
+}
+
+            @media screen and (max-width: 500px) {
+    
+                .tell{
+                    position: fixed;
+                    bottom: 85px;
+                    width: 60px;
+                    z-index: 99999999999999;
+                    
+                }
+                .tell1{
+
+                    z-index: 99999999999999;
+                    position: fixed;
+                    bottom: 85px;
+                    right: 0px;
+                    width: 65px;
+                }
+            }
+
+#x{
+    text-decoration: none;
+    color: black;
+}
+
+.log1{
+    width: 60px;
+    position: fixed;
+    left: 20px;
+
+}
+.log{
+    width: 40px;
+    position: fixed;
+
+    left: 40px;
+
+}
+.lo7g{
+    position: fixed;
+    left: 100px;
+}
+.nav1{
+    background-color:white;
+    position: fixed;z-index: 999999999;
+    width: 100%;
+    top: 0px;
+    padding: 10px;
+    /* box-shadow: 1px 2px 5px whitesmoke; */
+}
+
+.whyFlex {
+    text-align: center;
+    
+        justify-content:center;
+        align-items: center;
+    }
+.whyFlex div{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.whyFlex div img{
+    justify-content: center;
+    text-align: center;
+    
+    width: 200px;
+}
+
+@media screen and (max-width: 500px) {
+    .whyChooseUs{
+        display: none;
+    }
+
+}

@@ -1,0 +1,158 @@
+#map{
+    width: 500px;
+    height: 400px;
+}
+.tablespaceing {
+    text-align: center;
+}
+#footerDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 15px;
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 9px gray;
+}
+body{
+    background-color: rgba(255, 112, 112, 0.062);
+
+}
+a{
+    text-decoration: none;
+}
+
+#footerDiv2{
+    width: 500px;
+    padding: 15px;
+    margin-left: 30px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+}
+#block{
+    display: none;
+}
+a:hover{
+    cursor: pointer;
+
+}
+
+@media screen and (max-width: 1000px) {
+    #block{
+        display: block;
+    }
+}
+
+
+
+@media screen and (max-width: 1110px) {
+    #footerDiv{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 15px;
+        background-color: whitesmoke;
+        box-shadow: 2px 2px 9px gray;
+    }
+    #map{
+        width: 450px;
+        height: 350px;
+    }
+    
+    #footerDiv2{
+        width: 400px;
+        padding: 15px;
+        margin-left: 30px;
+        border-radius: 8px;
+        box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+    }
+
+
+
+    
+}
+@media screen and (max-width: 960px) {
+    #footerDiv{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 15px;
+        background-color: whitesmoke;
+        box-shadow: 2px 2px 9px gray;
+    }
+    #map{
+        width: 450px;
+        height: 350px;
+    }
+    
+    #footerDiv2{
+        width: 400px;
+        padding: 15px;
+        margin-left: 0px;
+        margin-top: 20px;
+        border-radius: 8px;
+        box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+    }
+
+
+
+    
+}
+
+
+
+@media screen and (max-width: 500px) {
+    #footerDiv{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 15px;
+        background-color: whitesmoke;
+        box-shadow: 2px 2px 9px gray;
+    }
+    #map{
+        width: 350px;
+        height: 300px;
+    }
+    
+    #footerDiv2{
+        width: 350px;
+        padding: 15px;
+        margin-left: 0px;
+        margin-top: 20px;
+        border-radius: 8px;
+        box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+    }
+
+
+
+    
+}
+
+
+@media screen and (max-width: 360px) {
+    #footerDiv{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 5px;
+        background-color: whitesmoke;
+        box-shadow: 2px 2px 9px gray;
+    }
+    #map{
+        width: 320px;
+        height: 280px;
+    }
+    
+    #footerDiv2{
+        width: 320px;
+        padding: 5px;
+        margin-left: 0px;
+        margin-top: 20px;
+        border-radius: 8px;
+        box-shadow: 2px 2px 9px rgba(128, 128, 128, 0.534);
+    }
+
+
+
+    
+}

@@ -1,0 +1,111 @@
+.main-dv{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  margin-top: 10%;
+  
+  overflow: hidden;
+ 
+}
+.l-dv{
+    width: 50px;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    background-color: white;
+    flex-shrink: 0;
+    height: 350px;
+    width: 370px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.lh-dv{
+    width: 100%;
+    height: 40px;
+   font-size: 25px;
+    color: royalblue;
+    text-align: center;
+    font-family: Artifika;
+    justify-content: center;
+    border-bottom: 1px solid royalblue;
+}
+.f-dv{
+    
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+.a-txtl{
+    color: blue;
+}
+.ip{
+    width: 100%;
+    height: 40px;
+   ;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    border-bottom: 1px solid grey;
+  
+    
+}
+.ip:hover{
+    border: none;
+    border-bottom: 1px solid royalblue;
+  
+    }
+.ip:focus{
+        border: none;
+       
+    }
+
+.ip-btn{
+    width: 100%;
+    height: 35px;
+    background-color: royalblue;
+    color: white;
+    
+}
+.ip-btn:hover{
+    background-color: rgba(65, 105, 225, 0.815);
+    }
+/* ---------------------------------------------------------- */
+@media screen and (max-width: 450px){
+    .l-dv{
+        
+        width: 50px;
+        height: auto;
+        margin: 0 auto;
+        padding: 10px;
+        position: relative;
+        background-color: white;
+        flex-shrink: 0;
+        height: 350px;
+        width: 300px;
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+        padding: 20px;
+    
+    }
+    
+}
+@media screen and (max-width: 350px){
+    .l-dv{
+       
+        
+        width: 50px;
+        height: auto;
+        margin: 0 auto;
+        padding: 10px;
+        position: relative;
+        background-color: white;
+        flex-shrink: 0;
+        height: 350px;
+        width: 200px;
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+        padding: 20px;
+    
+    }
+    
+}

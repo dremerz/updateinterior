@@ -1,0 +1,6 @@
+{
+  "appId": "com.dremerz.app",
+  "appName": "dremerz",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
